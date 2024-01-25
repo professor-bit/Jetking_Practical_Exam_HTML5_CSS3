@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Paragraphs Demonstration</title>
+</head>
+<body>
+
+
+    <h1>HTML Paragraphs Demonstration</h1>
+
+
+    <p>This is a simple HTML page with paragraphs. Here are a few paragraphs of text:</p>
+
+
+    <!-- Paragraphs are created using the <p> tag -->
+    <p>This is the first paragraph. It contains some text to illustrate the use of paragraphs in HTML.</p>
+
+
+    <p>This is the second paragraph. More content goes here, and you can add as many paragraphs as needed.</p>
+
+
+    <p>And here is the third paragraph. You can format text, add links, images, and other HTML elements within paragraphs.</p>
+
+
+</body>
+</html>
